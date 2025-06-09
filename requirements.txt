@@ -1,0 +1,11 @@
+tensorflow
+tensorflow-recommenders
+pandas
+scikit-learn
+numpy
+mlflow
+loguru
+pyyaml
+python-dotenv
+dvc
+pytest
