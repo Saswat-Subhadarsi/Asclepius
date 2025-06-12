@@ -1,26 +1,53 @@
-symptoms,diseases
-Frontal headache,Not Found
-rebound headache with intractable headache,Not Found
-Muscular headache,Not Found
-Frequent headache,Not Found
-Throbbing Headache,Not Found
-Occipital headache,Not Found
-Primary Stabbing Headache,Not Found
-Post-Lumbar Puncture Headache,Not Found
-Intermittent headache,Not Found
-Headache Disorders,Not Found
-Temporal headache,Not Found
-Chronic Headache,Not Found
-Primary Thunderclap Headache,Not Found
-rebound headache without intractable headache,Not Found
-Cluster Headache,Not Found
-Headache recurrent,Not Found
-Hypnic Headache,Not Found
-Tension Headache,Not Found
-Cervicogenic Headache,Not Found
-Sinus headache,Not Found
-Ocular Headache,Not Found
-Post-Traumatic Headache,Not Found
-Headache fullness,Not Found
-Primary Cough Headache,Not Found
-Headache,Not Found
+symptoms,diseases,description
+"Wheezing or whistling sounds when you breathe
+Having colds often 
+Feeling tired
+A fast heartbeat when you stand up
+Weight loss",AAT deficience,"Alpha-1 antitrypsin (AAT) deficiency is a condition that can cause serious lung or liver disease. Symptoms often include trouble breathing and jaundiced, or yellow, skin. It's a genetic disease, which means it's passed down to you from your parents."
+"A deep cavity or tooth decay, A cracked tooth, Gum disease, also known as periodontal disease ",Abscessed Tooth,"An abscessed tooth is one that is infected in or around the root, creating a pocket of pus. Anyone, from children to the elderly, can get one"
+"Chest pain, Food coming back up into the throat, Heartburnbelching ,Weight loss, Nighttime coughing, Vomiting
+Pneumonia, Choking, or aspiration (caused by inhaling food or liquid into airways) Hiccups or struggling to belch",Achalasia ,"Achalasia happens when the processes that move food to your stomach don’t work properly. For food and liquids to pass from your mouth to your stomach, two things need to happen after you swallow."
+"No bowel movements. A newborn should produce poop or meconium in the first couple of days. Older children with Hirschsprung's may have chronic (long-term) constipation.
+
+Bloody diarrhea. This is a sign of enterocolitis, a life-threatening infection of the colon. Other symptoms of the infection are severe diarrhea and gas.
+
+Vomiting. The vomit may be green or brown.",Hirschsprung's Disease,"Hirschsprung's disease is a rare condition that prevents a person from pooping normally. Babies with Hirschsprung's are missing the nerve cells needed to push digested food out of their colon (the last part of the large intestine). Poop can get stuck in the intestine and cause constipation, a blockage, or an infection."
+"Worse or less clear vision. Your vision might be blurry, and it may be hard to read fine print, drive, or recognize faces.
+Dark, blurry areas in the center of your vision
+Straight lines look wavy
+Worse or different color perception
+Trouble seeing in low light
+Changes in how you see colors
+Blank spots in your vision",Age-related macular degeneration,"Age-related macular degeneration (AMD) is an eye disease that may get worse over time. It’s the leading cause of serious, permanent vision loss in people older than 50. About 1 in 10 people in the U.S. are affected by the condition."
+"Rash
+Itch
+Redness
+Swelling
+Bumps
+Flaky skin
+Cracked skin, Runny or stuffy nose
+Face pain due to a stuffy nose
+Sneezing
+Watery, red, and itchy eyes
+Cough, chest tightness, shortness of breath, and wheezing
+Skin rash or hives, Coughing or wheezing
+Stuffy nose
+Sinus infection
+Ear infection
+Skin rash, Sneezing
+Runny or stuffy nose
+Red, itchy, and watery eyes
+Itchy skin
+Wheezing, coughing, shortness of breath, Vomiting, stomach cramps
+Hives
+Shortness of breath
+Wheezing
+Repeated cough
+Hoarse voice, tight throat, trouble swallowing
+Swelling of the tongue (affecting your ability to talk or breathe)
+Pale or blue-colored skin
+Dizziness or feeling faint
+Weak pulse
+Symptoms of shock, like heart palpitations or agitation
+Anaphylaxis, the symptoms of which can include rash, vomiting, trouble breathing, and dizziness, ",Allergies ,"Allergies are when your immune system overreacts to something called an allergen. An allergen is a foreign substance that's not harmful to most people, such as pollen or pet dander (skin cells from animals with fur or feathers). But when you have allergies, your immune system tries to fight it off as it would a germ or virus."
+,,
