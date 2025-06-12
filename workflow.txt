@@ -1,0 +1,7 @@
+Dataset Creation
+
+Initially, I planned to use the UMLS API to extract medical terminology and related data for my project. 
+However, the API turned out to be quite "trippy" — it's complex to navigate, heavily permission-gated, and not very beginner-friendly, and above all the symptoms fetched from api do not have a disease in its own.
+So I shifted to using WebMD as a more accessible source.
+I'm currently working on building a custom dataset manually by scraping and organizing relevant information. 
+But since WebMD’s structure isn’t very consistent, the process is slow — so now I’m exploring ways to automate parts of the data collection to speed things up while keeping it accurate.
